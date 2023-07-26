@@ -1,5 +1,5 @@
-# Spotify-Card-Phishing-Page by 1zu0
-The Responsive Phishing Page for Spotify Cards 2023
+# Spotify-Credit-Card-Phishing-Page by 1zu0
+The Responsive Phishing Page for Spotify Credit Cards 2023
 
 1. Change the ending of the file "hwto" to .txt and read...
 
